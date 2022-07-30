@@ -1,0 +1,10 @@
+D:\WorkSpaces\ArrayListProject\Project.Collections\bin\Debug\netstandard2.1\Project.Collections.deps.json
+D:\WorkSpaces\ArrayListProject\Project.Collections\bin\Debug\netstandard2.1\Project.Collections.dll
+D:\WorkSpaces\ArrayListProject\Project.Collections\bin\Debug\netstandard2.1\Project.Collections.pdb
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.csproj.AssemblyReference.cache
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.AssemblyInfoInputs.cache
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.AssemblyInfo.cs
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.dll
+D:\WorkSpaces\ArrayListProject\Project.Collections\obj\Debug\netstandard2.1\Project.Collections.pdb
